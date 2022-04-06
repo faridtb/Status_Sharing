@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThreadAsnyc/1.0.0": {
+        "runtime": {
+          "ThreadAsnyc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadAsnyc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
